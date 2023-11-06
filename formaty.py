@@ -39,5 +39,3 @@ print("Nasza duża liczba {:,}".format(liczba))  # Nasza duża liczba 134,567,11
 print("Nasza duża liczba {:,}".format(liczba).replace(",", "."))  # Nasza duża liczba 134.567.112.456
 print("Nasza duża liczba {:,}".format(liczba).replace(",", " "))  # Nasza duża liczba 134 567 112 456
 print(f"Liczba {liczba:,}".replace(",", " "))  # Liczba 134 567 112 456
-
-
