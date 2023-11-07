@@ -58,4 +58,4 @@ elif alert_system == 'console':
     else:
         lista_bledow.append("inny")
 print(lista_bledow)
-
+# 11:30
