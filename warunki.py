@@ -59,3 +59,16 @@ elif alert_system == 'console':
         lista_bledow.append("inny")
 print(lista_bledow)
 # 11:30
+
+# zrobic test z historii (czegokolwiek)
+# zadac pytanie
+# pobrac odpowiedz
+# sprawdzic
+# wypisac ocene
+odp = input("Podaj stolicę Polski")
+if odp.capitalize() == "Warszawa":
+    print("Prawda")
+else:
+    print("Pomyliłeś się")
+# capitalize()  - More specifically, make the first character have upper case and the rest lower
+#         case.
