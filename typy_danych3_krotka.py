@@ -41,3 +41,6 @@ print(imie3)
 lista = list(tupla2)
 print(lista)  # ['Tomek', 'Asia', 'Zbyszek', 'Marek']
 print(type(lista))  # <class 'list'>
+print(bin(25))  # 0b11001
+print(int("11001", 2))  # 25
+
