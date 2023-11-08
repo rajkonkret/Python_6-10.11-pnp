@@ -50,3 +50,4 @@ while True:
 # round() print(round(4.56777, 2))
 # try - except [else, finally]
 # praca domowa: spróbowac zrobic to za pomocą case
+# 11:25
