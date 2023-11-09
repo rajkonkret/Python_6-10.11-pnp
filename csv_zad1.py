@@ -24,7 +24,7 @@ with open(filename, 'w', newline='', encoding='utf-8') as csv_f:
     # csvwriter.writerow(fields)
     # csvwriter.writerow(row)
     # Dla działan ze słownikiem
-    csvwriter = csv.DictWriter(csv_f, fieldnames=fields)
+    csvwriter = csv.DictWriter(csv_f, fieldnames=fields, delimiter=";")
     csvwriter.writeheader()
     # csvwriter.writerow(zipped_dict)  # zapisanie jedego wiersza ze słownika
     csvwriter.writerows(dict_list)  # zapisanie  z listy słowników

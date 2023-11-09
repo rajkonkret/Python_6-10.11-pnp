@@ -1,5 +1,5 @@
-name,branch,year,cgpa
-radek,coe,3,9
-Zosia,cos,2,9.1
-Tomek,cot,1,0.5
-Zenek,con,8,00
+name;branch;year;cgpa
+radek;coe;3;9
+Zosia;cos;2;9.1
+Tomek;cot;1;0.5
+Zenek;con;8;00
