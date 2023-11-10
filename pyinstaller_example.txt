@@ -1,0 +1,5 @@
+instalacja pyinstallera
+pip install pyinstaller
+pyinstaller.exe .\okienko.py
+
+W katalogu dist pojawi sie plik uruchamialny .exe
