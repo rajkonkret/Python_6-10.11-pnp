@@ -32,4 +32,3 @@ finally:  # wykonuje sie zawsze
         sql_connection.close()
         print("Baza została zamknięta")
 # 13:15
-
