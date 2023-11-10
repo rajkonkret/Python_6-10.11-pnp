@@ -13,3 +13,4 @@ except TypeError:
     print("Bład typu")
 except MyException:
     print("Wystąpił wyjątek MyException")
+# 11:15
