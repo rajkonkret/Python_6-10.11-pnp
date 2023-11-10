@@ -12,3 +12,5 @@ for i in range(4):
     pen.right(90)
 
 wm.mainloop()
+# pip freeze > requirements.txt
+# pip install -r requirements.txt
